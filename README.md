@@ -6,22 +6,6 @@ Portal web para el **CETis 116**, un bachillerato tecnológico. Reúne la inform
 
 ---
 
-## Capturas
-
-| Inicio | Oferta educativa |
-|---|---|
-| ![Inicio](capturas/inicio.png) | ![Oferta educativa](capturas/oferta-educativa.png) |
-
-| Consulta de calificaciones | Panel de administración |
-|---|---|
-| ![Calificaciones](capturas/calificaciones.png) | ![Admin](capturas/admin.png) |
-
-| Editor de horarios | Vista en celular |
-|---|---|
-| ![Editor de horarios](capturas/editor-horarios.png) | ![Celular](capturas/movil.png) |
-
----
-
 ## Funcionalidades
 
 ### Sitio público
